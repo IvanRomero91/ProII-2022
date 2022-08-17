@@ -1,0 +1,10 @@
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\bin\Debug\Veterinaria.exe.config
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\bin\Debug\Veterinaria.exe
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\bin\Debug\Veterinaria.pdb
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\obj\Debug\Veterinaria.csproj.AssemblyReference.cache
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\obj\Debug\Veterinaria.FrmVeterinaria.resources
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.cache
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\obj\Debug\Veterinaria.exe
+D:\Desktop\Entrega PII-2022\WinForm\Veterinaria\obj\Debug\Veterinaria.pdb
